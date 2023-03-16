@@ -1,0 +1,185 @@
+CNN:Convolutional Neural Network
+GAN:Generative Adversarial Network
+BERT:Bidirectional Encoder Representations from Transformers
+MRI:Magnetic Resonance Imaging
+LSTM:Long Short-Term Memory
+RGB:Red Green Blue
+SLAM:Simultaneous Localization and Mapping
+NLP:Natural Language Processing
+UAV:Unmanned Aerial Vehicle
+EEG:Electroencephalography
+ASR:Automatic Speech Recognition
+DNN:Deep Neural Network
+SGD:Stochastic Gradient Descent
+RNN:Recurrent Neural Network
+GPU:Graphics Processing Unit
+VAE:Variational Autoencoder
+PAC:Probably Approximately Correct
+PCA:Principal Component Analysis
+MIMO:Multiple Input Multiple Output
+ECG:Electrocardiogram
+SAR:Synthetic Aperture Radar
+FPGA:Field-Programmable Gate Array
+GNN:Graph Neural Network
+SQL:Structured Query Language
+SVM:Support Vector Machine
+NAS:Neural Architecture Search
+MPC:Model Predictive Control
+CLIP:Causal Language Interpretation and Generation
+PET:Positron Emission Tomography
+ADMM:Alternating Direction Method of Multipliers
+MCMC:Markov Chain Monte Carlo
+XAI:Explainable Artificial Intelligence
+GCN:Graph Convolutional Network
+TTS:Text-to-Speech
+MLP:Multilayer Perceptron
+VQA:Visual Question Answering
+OCT:Optical Coherence Tomography
+IID:Independent and Identically Distributed
+ODE:Ordinary Differential Equation
+OCR:Optical Character Recognition
+NER:Named Entity Recognition
+GPT:Generative Pretrained Transformer
+PDE:Partial Differential Equation
+CTC:Connectionist Temporal Classification
+SAT:Satisfiability
+IMU:Inertial Measurement Unit
+CRF:Conditional Random Field
+ROS:Robot Operating System
+AMR:Abstract Meaning Representation
+GPS:Global Positioning System
+CSI:Channel State Information
+JPEG:Joint Photographic Experts Group
+HDR:High Dynamic Range
+NMT:Neural Machine Translation
+CAD:Computer-Aided Design
+YOLO:You Only Look Once
+RGBD:Red Green Blue Depth
+GNSS:Global Navigation Satellite System
+ASP:Answer Set Programming
+SVD:Singular Value Decomposition
+API:Application Programming Interface
+EHR:Electronic Health Record
+RCNN:Regions with CNN features
+GRU:Gated Recurrent Unit
+CAM:Class Activation Map
+MAP:Maximum a Posteriori
+SARS:Severe Acute Respiratory Syndrome
+AUC:Area Under the Curve
+DETR:End-to-End Object Detection with Transformers
+CPU:Central Processing Unit
+HPC:High Performance Computing
+MDP:Markov Decision Process
+SNE:Stochastic Neighbor Embedding
+LIDAR:Light Detection and Ranging
+DOF:Degrees of Freedom
+NET:Neural Entropy Based Thresholding
+CTR:Click-Through Rate
+RRT:Rapidly-exploring Random Trees
+ICU:Intensive Care Unit
+NLU:Natural Language Understanding
+RNA:Ribonucleic Acid
+OOD:Out-of-Distribution
+HRI:Human-Robot Interaction
+DAG:Directed Acyclic Graph
+ICD:International Statistical Classification of Diseases and Related Health Problems
+UWB:Ultra-Wideband
+III:Intelligent Information Interfaces
+NLG:Natural Language Generation
+BCI:Brain-Computer Interface
+ROI:Region of Interest
+NLI:Natural Language Inference
+POS:Parts of Speech
+OFDM:Orthogonal Frequency Division Multiplexing
+ANN:Artificial Neural Network
+HMM:Hidden Markov Model
+FCN:Fully Convolutional Network
+LDA:Linear Discriminant Analysis
+SMT:Statistical Machine Translation
+SHAP:SHapley Additive exPlanations
+POMDP:Partially Observable Markov Decision Process
+ICA:Independent Component Analysis
+RAN:Radio Access Network
+LIME:Local Interpretable Model-Agnostic Explanations
+DCT:Discrete Cosine Transform
+EMG:Electromyography
+PID:Proportional Integral Derivative
+BEV:Birds Eye View
+DARTS:Differentiable Architecture Search
+DRL:Deep Reinforcement Learning
+NOMA:Non-Orthogonal Multiple Access
+GMM:Gaussian Mixture Model
+PSO:Particle Swarm Optimization
+UCB:Upper Confidence Bound
+CBCT:Cone-Beam Computed Tomography
+KNN:K-Nearest Neighbors
+SSD:Single Shot MultiBox Detector
+MARL:Multi-Agent Reinforcement Learning
+MAML:Model-Agnostic Meta-Learning
+CAT:Computer Aided Translation
+NMF:Non-Negative Matrix Factorization
+EPIC:European Peoples Initiative for Civilian Drones
+OWL:Web Ontology Language
+PPG:Photoplethysmogram
+RIS:Radiology Information System
+ERNIE:Embedding from Region-wise N-gram Indices
+DQN:Deep Q-Network
+E2E:End-to-End
+LQR:Linear-Quadratic Regulator
+NIR:Near-Infrared
+CUDA:Compute Unified Device Architecture
+MCTS:Monte Carlo Tree Search
+RBF:Radial Basis Function
+AUV:Autonomous Underwater Vehicle
+MAV:Micro Air Vehicle
+MMD:Maximum Mean Discrepancy
+MPI:Message Passing Interface
+TSP:Traveling Salesman Problem
+ICP:Iterative Closest Point
+CAN:Controller Area Network
+AGI:Artificial General Intelligence
+ISP:Internet Service Provider
+POI:Point of Interest
+STAR:Simultaneous Tracking and Mapping
+V2X:Vehicle-to-Everything
+RDF:Resource Description Framework
+BART:Bayesian Additive Regression Trees
+UAS:Unmanned Aircraft System
+RKHS:Reproducing Kernel Hilbert Space
+AIM:Artificial Intelligence in Medicine
+STDP:Spike-Timing Dependent Plasticity
+CXR:Chest X-Ray
+SAM:Successive Approximation Method
+RANSAC:Random Sample Consensus
+MDL:Minimum Description Length
+SIFT:Scale-Invariant Feature Transform
+ERM:Empirical Risk Minimization
+SNR:Signal-to-Noise Ratio
+SVRG:Stochastic Variance Reduced Gradient
+CARLA:The Carnegie Learning Architecture
+DCNN:Deep Convolutional Neural Network
+IDS:Intrusion Detection System
+PPO:Proximal Policy Optimization
+GUI:Graphical User Interface
+MOBA:Multiplayer Online Battle Arena
+LTL:Linear Temporal Logic
+PINN:Physics-Informed Neural Network
+SNN:Spiking Neural Network
+GDPR:General Data Protection Regulation
+CCA:Canonical Correlation Analysis
+ABC:Artificial Bee Colony
+MAC:Media Access Control
+XOR:Exclusive Or
+VHR:Very High Resolution
+ARM:Advanced RISC Machines
+URL:Uniform Resource Locator
+ACE:Adaptive Cruise Control
+COCO:Common Objects in Context
+FAST:Fourier-transform Infrared Spectroscopy
+SPD:Symmetric Positive Definite
+ASD:Autism Spectrum Disorder
+ROC:Receiver Operating Characteristic
+MIMIC:Multiparameter Intelligent Monitoring in Intensive Care
+SSL:Self-Supervised Learning
+SDE:Stochastic Differential Equation
+NMS:Non-Maximum Suppression
