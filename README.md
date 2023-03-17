@@ -1,5 +1,5 @@
 # AI_trends
-This three-part series of articles called "Exploring the AI Landscapeaims" to provide a simple and efficient method for rapidly analyzing trends in the field of AI and a general description of the current state of AI and its future direction, making it an essential read for anyone interested in the technology.
+This three-part series of articles called "Exploring the AI Landscape" aims to provide a simple and efficient method for rapidly analyzing trends in the field of AI and a general description of the current state of AI and its future direction, making it an essential read for anyone interested in the technology.
 
 "Part 1: Crafting the Data Foundation - Data Selection and Preparation"
 In this first article, we dive into the process of collecting and preparing data from the popular scientific repository, arXiv.org. Focusing on articles from 2018 to 2022, we set the stage for an engaging journey into the world of AI topics.
